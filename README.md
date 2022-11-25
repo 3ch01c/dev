@@ -1,0 +1,2 @@
+# echoic.dev
+Wordpress deployment

@@ -1,2 +1,3 @@
-# echoic.dev
-Wordpress deployment
+# dev
+
+Testing random things.
